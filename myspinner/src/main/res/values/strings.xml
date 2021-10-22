@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myspinner</string>
+    <string-array name="data">
+        <item>Bilgewater:黑铁</item>
+        <item>Zaun:青铜</item>
+        <item>Piltover:白银</item>
+        <item>Shurima:黄金</item>
+        <item>Ionia:白金</item>
+        <item>Mount Targon:钻石</item>
+        <item>Noxus:宗师</item>
+        <item>Demacia:最强王者</item>
+    </string-array>
+    <string name="spin_title">select rank</string>
+</resources>

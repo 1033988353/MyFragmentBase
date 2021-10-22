@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/app/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/app/src/main/res/layout/fragment_blank1.xml" value="0.16394927536231885" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myfragmentmanagers/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myfragmentmanagers/src/main/res/layout/fragment_blank1.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myfragmentmanagers/src/main/res/layout/fragment_item_list.xml" value="0.11510416666666666" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myspinner/src/main/res/drawable/ic_launcher_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myspinner/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myspinner/src/main/res/layout/item_spinner_hero.xml" value="0.4" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/activity_main.xml" value="0.13229166666666667" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/activity_main2.xml" value="0.13229166666666667" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/activity_main3.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/activity_main4.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/fragment_first.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/mytestproject/src/main/res/layout/fragment_second.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myviewpagerandfragment/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/myviewpagerandfragment/src/main/res/layout/item_pager.xml" value="0.1453125" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/ic_baseline_chat.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/ic_baseline_chated.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/ic_launcher_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/table_chat.xml" value="0.1484375" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/table_mine.xml" value="0.15520833333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/table_predict.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/drawable/table_search.xml" value="0.14583333333333334" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/layout/button_layout.xml" value="0.264" />
+        <entry key="..\:/worksoft/Android/AndroidStudioProjects/MyFragmentBase/wechatpage/src/main/res/layout/fragment_blank.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
